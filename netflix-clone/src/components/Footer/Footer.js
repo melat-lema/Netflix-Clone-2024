@@ -4,7 +4,7 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
 
 import './footer.css'
-import YouTube from '@mui/icons-material/YouTube';
+
 function Footer(){
   return(
     <div className="footer-outer-container">
